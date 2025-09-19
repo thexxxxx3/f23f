@@ -1,1 +1,1 @@
-{"name":"USDT","symbol":"USDT","description":" ","image":"https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdt2.png"}
+{"name":"SPL Token","symbol":"USDT","description":" ","image":"https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdt2.png"}
