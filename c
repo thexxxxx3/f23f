@@ -1,1 +1,1 @@
-{"name":"USDC","symbol":"USDC","description":" ","image":"https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdc2.png"}
+{"name":"SPL Token","symbol":"USDC","description":" ","image":"https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdc2.png"}
