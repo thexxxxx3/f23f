@@ -1,0 +1,16 @@
+{
+  "name": "Ultra Sigma Donald Trump",
+  "symbol": "USDT",
+  "description": "Ultra Sigma Donald Trump",
+  "image": "https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdt2.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/thexxxxx3/f23f/refs/heads/main/usdt2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
